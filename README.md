@@ -8,9 +8,8 @@ I will constantly be going back to improve and update my website even after I su
 
 ## Installation
 
-![Image of contact code](C:\Users\demps\gt-pt\homework\Unit-02-Responsive-Portfolio\Screenshot 2020-09-16 130944.png?raw=true)
-![Image of portfolio code]()
-!
+![Image of contact code](https://github.com/Dempsey496/Unit-02-Responsive-Portfolio/blob/master/Screenshot%202020-09-16%20130944.png?raw=true)
+
 
 * My normal first step would be to sketch out a rough draft of how I would like my website to look to the user. Since layouts were already provided for his homework, I was able to get right into design and structuring.
 
