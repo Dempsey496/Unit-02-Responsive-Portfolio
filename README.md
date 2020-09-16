@@ -8,7 +8,7 @@ I will constantly be going back to improve and update my website even after I su
 
 ## Installation
 
-![Image of contact code](C:\Users\demps\gt-pt\homework\Unit-02-Responsive-Portfolio\Screenshot 2020-09-16 130944.png)
+![Image of contact code](Screenshot 2020-09-16 130944.png)
 ![Image of portfolio code]()
 !
 
