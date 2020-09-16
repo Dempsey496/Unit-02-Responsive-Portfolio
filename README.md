@@ -8,9 +8,6 @@ I will constantly be going back to improve and update my website even after I su
 
 ## Installation
 
-![Image of contact code](https://github.com/Dempsey496/Unit-02-Responsive-Portfolio/blob/master/Screenshot%202020-09-16%20130944.png?raw=true)
-
-
 * My normal first step would be to sketch out a rough draft of how I would like my website to look to the user. Since layouts were already provided for his homework, I was able to get right into design and structuring.
 
 * I first copied the Bootstrap CSS and found a collapsable navbar that would best fit my needs. 
@@ -28,6 +25,9 @@ I will constantly be going back to improve and update my website even after I su
 * I then began work on my navbar functionality. I added href links and copied to each file. I did have some trouble with showing the active link. Eventually I just had to manually set the text color for the active page darker than the others.
 
 * My last step was to replace divs with more semantic html. This did cause some problems here and there but will help to idenfify specific parts of the code.
+
+![Image of contact code](https://github.com/Dempsey496/Unit-02-Responsive-Portfolio/blob/master/Screenshot%202020-09-16%20130944.png?raw=true)
+![Image of contact page]()
 
 
 
