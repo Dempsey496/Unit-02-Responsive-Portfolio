@@ -7,7 +7,18 @@
     padding: 5px;
 }
 .form-text{
+    padding: 5px;
+    text-align: center;
     color: #17a2b8; 
     font-family: serif; 
     font-weight: 800;
+}
+.card-body{
+    width: 50rem;
+}
+.card{
+    width: 75rem;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
 }
