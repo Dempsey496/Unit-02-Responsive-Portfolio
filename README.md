@@ -26,8 +26,7 @@ I will constantly be going back to improve and update my website even after I su
 
 * My last step was to replace divs with more semantic html. This did cause some problems here and there but will help to idenfify specific parts of the code.
 
-![Image of contact code](https://github.com/Dempsey496/Unit-02-Responsive-Portfolio/blob/master/Screenshot%202020-09-16%20130944.png?raw=true)
-![Image of contact page](https://github.com/Dempsey496/Unit-02-Responsive-Portfolio/blob/master/Screenshot%202020-09-16%20133200.png)
+![Image of contact page](images/https://github.com/Dempsey496/Unit-02-Responsive-Portfolio/blob/master/Screenshot%202020-09-16%20133200.png)
 
 
 
