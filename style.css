@@ -1,0 +1,13 @@
+.navbar-brand{
+    color:white; 
+    background-color: #17a2b8; 
+    font-size: 25px; 
+    font-family: serif; 
+    font-weight: 800 ;
+    padding: 5px;
+}
+.form-text{
+    color: #17a2b8; 
+    font-family: serif; 
+    font-weight: 800;
+}
