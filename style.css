@@ -1,5 +1,4 @@
 .navbar-brand{
-    background-color: dodgerblue;
     font-size: 25px; 
     font-family: serif; 
     font-weight: 800;
@@ -12,11 +11,14 @@
     font-family: serif; 
     font-weight: 800;
 }
-.card-body{
-    width: 50rem;
-}
 .card{
-    width: 50rem;
+    margin: 50px; 
+    padding: 25px; 
+    float: right;
+    width: 90%; 
+}
+.card-body{
+    display: flexbox;
 }
 body{
     background-image: url("https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
@@ -27,6 +29,6 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 50px;
+    height: 25px;
     background-color: dodgerblue; 
 }
