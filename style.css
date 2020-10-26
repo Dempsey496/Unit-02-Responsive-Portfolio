@@ -1,15 +1,14 @@
 .navbar-brand{
-    color:white; 
-    background-color: #17a2b8; 
+    background-color: dodgerblue;
     font-size: 25px; 
     font-family: serif; 
-    font-weight: 800 ;
+    font-weight: 800;
     padding: 5px;
 }
 .form-text{
     padding: 5px;
     text-align: center;
-    color: #17a2b8; 
+    color: dodgerblue; 
     font-family: serif; 
     font-weight: 800;
 }
@@ -17,8 +16,17 @@
     width: 50rem;
 }
 .card{
-    width: 75rem;
+    width: 50rem;
 }
 body{
     background-image: url("https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    margin-bottom: 50px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: dodgerblue; 
 }

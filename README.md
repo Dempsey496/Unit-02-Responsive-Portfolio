@@ -1,12 +1,14 @@
 # Unit-02-Responsive-Portfolio
 
+## Access to website: https://dempsey496.github.io/Unit-02-Responsive-Portfolio/
+
 ## Starting off
 
 I took this homework as a chance to not only practice my grid systems and Bootstrap components, but also a way to practice getting my name out there by using a professional looking and smooth functioning website.
 
 I will constantly be going back to improve and update my website even after I submit it for homework. I mostly excited about expanding my portfolio to not just pictures (right now it looks like im trying to be a model) but to add all the websites I have created/improved.
 
-## Installation
+## Process
 
 * My normal first step would be to sketch out a rough draft of how I would like my website to look to the user. Since layouts were already provided for his homework, I was able to get right into design and structuring.
 
