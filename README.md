@@ -28,10 +28,18 @@ I will constantly be going back to improve and update my website even after I su
 
 * My last step was to replace divs with more semantic html. This did cause some problems here and there but will help to idenfify specific parts of the code.
 
-![Image of contact page](images/https://github.com/Dempsey496/Unit-02-Responsive-Portfolio/blob/master/Screenshot%202020-09-16%20133200.png)
+![Image of contact page] (images\Screenshot 2020-10-28 151525.png)
 
 
 
 # License
 
-Licensed under the mit license.
+The MIT License
+
+Copyright (c) 2020 Dempsey Finley-Price
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
