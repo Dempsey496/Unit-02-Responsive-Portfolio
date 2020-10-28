@@ -28,7 +28,9 @@ I will constantly be going back to improve and update my website even after I su
 
 * My last step was to replace divs with more semantic html. This did cause some problems here and there but will help to idenfify specific parts of the code.
 
-![Image of contact page] (images\Screenshot 2020-10-28 151525.png)
+## Screenshot
+
+![Screenshot](images\Screenshot 2020-10-28 151525.png)
 
 
 
