@@ -30,7 +30,7 @@ I will constantly be going back to improve and update my website even after I su
 
 ## Screenshot
 
-![Portfolio Screenshot]("images\readmescreenshot.png")
+![Portfolio Screenshot]("./images/readmescreenshot.png")
 
 
 
